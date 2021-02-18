@@ -1,0 +1,1 @@
+a.oninput=function(){b.innerHTML=a.value}
